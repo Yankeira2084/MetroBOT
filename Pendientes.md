@@ -6,3 +6,4 @@ AQUÍ SE ESCRIBEN LOS TRABAJOS PENDIENTES QUE SE LE DEBEN HACER A ESTE PROYECTO:
 4. Añadir en que estaciones se pueden gestionar trámites administrativos de la Cívica (Sacar nueva cívica, cambiarla, reportarla, etc.)
 5. Añadir los canales de comunicación oficiales del Metro para que el usuario realice trámites si lo requiere o resuelva dudas.
 6. Investigar como mejorar la interactividad del Mapa (de forma gratuita sin que haya que integrar una API Paga de Google Maps)
+7. Consultar en tiempo real información sobre novedades e interrupciones en los transportes del SITVA.
